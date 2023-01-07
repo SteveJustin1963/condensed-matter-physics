@@ -19,15 +19,15 @@ Once you have determined the lengths of the potential wells for the three nanopa
 for the length of the infinite potential well (L) for the three nanoparticles of cadmium selenide, you will need to use the equation `hc/lambda = (m^2 - n^2)h^2/(8mcL^2) + E(g)` and the known values for the other variables in the equation.
 
 For the first nanoparticle with a size of 2.34 nm and a wavelength of 536 nm, you can plug in the known values to get:
-`
+```
 L = hc/lambda - (m^2 - n^2)h^2/(8mc) - E(g)
 = (6.62607004 x 10^-34 m x 2.998 x 10^8 m/s)/(536 x 10^-9 m) - (m^2 - n^2) (6.62607004 x 10^-34 m)^2/(8 x 9.10938356 x 10^-31 kg x 2.998 x 10^8 m/s) - E(g)
-`
+```
 For the second nanoparticle with a size of 2.52 nm and a wavelength of 570 nm, you can use the same equation with the corresponding values:
-`
+```
 L = hc/lambda - (m^2 - n^2)h^2/(8mc) - E(g)
 = (6.62607004 x 10^-34 m x 2.998 x 10^8 m/s)/(570 x 10^-9 m) - (m^2 - n^2) (6.62607004 x 10^-34 m)^2/(8 x 9.10938356 x 10^-31 kg x 2.998 x 10^8 m/s) - E(g)
-`
+```
 Solving for L in these equations will give you the lengths of the potential wells for the two nanoparticles.
 
 To determine the size of the third nanoparticle that will emit orange light with a wavelength of 590 nm, you can use the same equation, but with the desired wavelength and one of the determined values for L. This will give you the size (diameter) of the third nanoparticle.
