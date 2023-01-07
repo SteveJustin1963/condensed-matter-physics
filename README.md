@@ -1,5 +1,6 @@
 # condensed-matter-physics
 
+## infinite potential well model or the quantum well model
 The equation `hc/lambda = (m^2 - n^2)h^2/(8mcL^2) + E(g)` relates to the energy levels of electrons in a solid, and is commonly used in the field of condensed matter physics.
 
 Condensed matter physics is a branch of physics that studies the physical properties of matter in its solid and liquid states. It is concerned with understanding the behavior of matter at the atomic and molecular scale, and includes topics such as the structure and behavior of materials, the behavior of electrons in solids, and the phenomena of phase transitions.
