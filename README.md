@@ -34,3 +34,8 @@ Solving for L in these equations will give you the lengths of the potential well
 To determine the size of the third nanoparticle that will emit orange light with a wavelength of 590 nm, you can use the same equation, but with the desired wavelength and one of the determined values for L. This will give you the size (diameter) of the third nanoparticle.
 
 Keep in mind that this solution assumes that the energy levels of the electrons, the energy of the forbidden bandgap, and the other constants in the equation are known and fixed. If any of these values are unknown or variable, they will also need to be taken into account in the solution.
+
+## Ref
+- https://en.wikipedia.org/wiki/Particle_in_a_box
+- https://en.wikipedia.org/wiki/Quantum_well
+- 
